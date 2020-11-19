@@ -1,4 +1,4 @@
-![](images/profile_1920.png)
+![](images/profile_web.png)
 
 <!--
 **ShristiJalan/ShristiJalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
